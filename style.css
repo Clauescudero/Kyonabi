@@ -1,0 +1,47 @@
+.navbar{
+    /* background-color: rgb(149, 101, 177);*/
+}
+
+body{
+    background: linear-gradient(to top,#bb18fd,#8fe3f1);
+    color: linear-gradient(#bb18fd,10%,#8fe3f1);
+}
+
+
+.card-body{
+    width: 200px;
+    /*background-color: rgb(243, 134, 247)*/
+}
+
+.list-group_list-group-flush{
+    width: 200px;
+    /*background-color:pink */
+}
+
+.list-group-item{
+    /*background-color:rbga (278,hsl(278, 81%, 89%));
+    /* color: pink*/
+    
+}
+
+
+.bg-light_text-center_text-lg-start{
+    padding: 40px 40px 0 40px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.card-img-top{
+    width: 150px;
+}
+
+
+
+.prueba{
+    background: linear-gradient(to top,#bb18fd,#8fe3f1);
+    color: linear-gradient(to top,#bb18fd,#8fe3f1);
+
+}
+bb18fd morado
+8fe3f1  cyan
